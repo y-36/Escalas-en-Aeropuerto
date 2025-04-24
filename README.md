@@ -6,6 +6,8 @@
 
 ### En el directorio del ejercicio se encuentran los siguientes archivos:
 
+#### Se opta por establecer la solucion en otro branch "fly" para mejor cohesion
+#### El branch master solo tiene el enunciado un subdirectorio con el kickstar para su completar
 ```
 Archivo         | Descripción
 ```
