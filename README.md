@@ -7,21 +7,24 @@
 ### En el directorio del ejercicio se encuentran los siguientes archivos:
 
 ```
-Archivo Descripción
+Archivo         | Descripción
 ```
 ```
-main.c Contiene la función principal del programa
+main.c          | Contiene la función principal del programa
 ```
 ```
-flight.h Declaraciones relativas a la estructura de los datos de vuelos y de funciones de carga y
-escritura de datos.
-flight.c Implementaciones incompletas de las funciones
+flight.h        | Declaraciones relativas a la estructura de los
+                | datos de vuelos y de funciones de carga y
+                | escritura de datos.
 ```
 ```
-array_helpers.h Declaraciones / prototipos de las funciones que manejan la tabla de escalas
+flight.c        | Implementaciones incompletas de las funciones
 ```
 ```
-array_helpers.c Implementaciones incompletas de las funciones quemanejan el arreglo
+array_helpers.h | Declaraciones / prototipos de las funciones que manejan la tabla de escalas
+```
+```
+array_helpers.c | Implementaciones incompletas de las funciones quemanejan el arreglo
 ```
 Abrir el archivo **inputs/example7055.in** para ver cómose estructuran los datos.
 
