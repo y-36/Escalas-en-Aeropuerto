@@ -56,7 +56,9 @@ Una vez completada la lectura de datos se puede verificar si la carga funciona c
 
 ```
 $ gcc -Wall -Werror -Wextra -pedantic -std=c99 -c array_helpers.c flight.c main.c
-$ gcc -Wall -Werror -Wextra -pedantic -std=c99 array_helpers.oflight.o main.o -o delays
+```
+```
+$ gcc -Wall -Werror -Wextra -pedantic -std=c99 array_helpers.o flight.o main.o -o delays
 ```
 
 y luego ejecutar
