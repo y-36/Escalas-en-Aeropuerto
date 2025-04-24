@@ -72,7 +72,7 @@ int main(int argc, char *argv[]) {
     /* show the array in the screen */
     array_dump(array);
 
-    printf("\nCompensation cost: %u\n", /* COMPLETAR */);
+    printf("\nCompensation cost: %u\n", compensation_cost(array, 18));
 
     return (EXIT_SUCCESS);
 }
